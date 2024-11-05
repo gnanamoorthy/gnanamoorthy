@@ -9,7 +9,7 @@
 [![Updated Badge](https://badges.pufler.dev/updated/gnanamoorthy/gnanamoorthy)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/gnanamoorthy/gnanamoorthy)](https://badges.pufler.dev)
 
-##### I'm a Backend Developer with 5+ Experience.
+##### I'm a Backend Developer with 8+ Experience.
 - 🔭 I'm currently working at Rejola as a Backend Developer.
 - 🌱 I use daily: `.java`, `.js`, `.ts`, `.xml`, `.yml`, `.json`, `.dockerfile`, `.sql`
 - 📖 I am currently learning `Apache Kafka`.
